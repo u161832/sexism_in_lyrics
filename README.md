@@ -12,7 +12,7 @@ Laura Casanovas Buliart, Priscila Alvarez-Cueva, Carlos Castillo (2023). [From T
 * The DOI of the accompanying dataset is [10.5281/zenodo.8134122](https://zenodo.org/record/8134122)
 
 Laura Casanovas Buliart, Priscila Alvarez-Cueva, Carlos Castillo (2023). [61 Years of sexism in music: Analysis of the most listened songs in Spain since 1960s until now](Papers/Sexism_in_music_lyrics_Journal_version_Casanovas_Alvarez_Cueva_Castillo.pdf). Under review.
-* Supplementary tables: [examples of sexism](sexism_examples.md), [examples of non-sexist lyrics](non_sexist_songs.md)
+* Supplementary tables: [examples of sexism](sexism_examples.md), [examples of non-sexist lyrics](non_sexist_examples.md)
 
 
 # Contact
