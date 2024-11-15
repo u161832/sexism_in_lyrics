@@ -4,16 +4,16 @@ This repository contains code and data for an ongoing research project on sexism
 
 The research analyzed the lyrics of more than two thousand songs released throughout a period of about six decades (1960-2022). We used automatic text classification based on manually labeled training data to categorize music lyrics as sexist or non-sexist, while detecting broad categories of sexist speech present in them. We also considered whether the lyrics contained racialized speech. The main findings show that sexism has been prevalent during the observation period, and has increased considerably over the last decade.
 
+See also: [README-details.md](README-details.md)
+
 # References
 
-Laura Casanovas Buliart, Priscila Alvarez-Cueva, Carlos Castillo (2023). [From The Beatles to Bad Bunny: Sexism in popular music through an automated text analysis](Beatles_to_Bad_Bunny_IC2S2_abstract.pdf). Poster presentation at IC2S2. Copehagen, Denmark, July 2023.
- 
-Laura Casanovas Buliart, Priscila Alvarez-Cueva, Carlos Castillo (2023). [61 Years of sexism in music: Analysis of the most listened songs in Spain since 1960s until now](Sexism_in_music_lyrics_Journal_version_Casanovas_Alvarez_Cueva_Castillo.pdf). Under review.
+Laura Casanovas Buliart, Priscila Alvarez-Cueva, Carlos Castillo (2023). [From The Beatles to Bad Bunny: Sexism in popular music through an automated text analysis](Papers/Beatles_to_Bad_Bunny_IC2S2_abstract.pdf). Poster presentation at IC2S2. Copehagen, Denmark, July 2023.
+* The DOI of the accompanying dataset is [10.5281/zenodo.8134122](https://zenodo.org/record/8134122)
 
-The DOI of this dataset is [10.5281/zenodo.8134122](https://zenodo.org/record/8134122)
+Laura Casanovas Buliart, Priscila Alvarez-Cueva, Carlos Castillo (2023). [61 Years of sexism in music: Analysis of the most listened songs in Spain since 1960s until now](Papers/Sexism_in_music_lyrics_Journal_version_Casanovas_Alvarez_Cueva_Castillo.pdf). Under review.
+
 
 # Contact
 
 Contact the main author, Laura Casanova, at laura.casanovas03@alumni.upf.edu
-
-
