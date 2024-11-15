@@ -1,4 +1,4 @@
-# Table II: Examples of Non-Sexist Songs
+# Supplementary Table: Examples of Non-Sexist Songs
 
 | **Lyrics Example**                                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|
