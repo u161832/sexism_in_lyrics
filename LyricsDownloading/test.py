@@ -6,7 +6,7 @@ import time
 
 
 # Insert client ID
-api = genius.Genius('1TNEXGWyydiUJggQbm4TU9U7CeFnZf9TQ-ckk0fnYw4Ck0KtISlCh1CXvzIPg9JJ', timeout = 10000)
+api = genius.Genius('<YOUR API KEY HERE>', timeout = 10000)
 
 with open('No_results.csv', encoding='mac_roman') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
