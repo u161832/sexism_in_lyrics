@@ -5,7 +5,7 @@ import time
 
 
 # Insert client ID
-api = genius.Genius('1TNEXGWyydiUJggQbm4TU9U7CeFnZf9TQ-ckk0fnYw4Ck0KtISlCh1CXvzIPg9JJ', timeout = 1000)
+api = genius.Genius('<YOUR API KEY HERE>', timeout = 1000)
 
 
 # opens file in read mode and creates a reader
